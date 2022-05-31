@@ -10,9 +10,9 @@ function Team() {
           <img className="image" src={abc} alt=" " />
         </Col>
         <Col className="member__name mx-sm-auto">
-          <h2>Name:-Abc</h2>
+          <h2>Name:-Aakansha Sharma</h2>
           <Col className="member__roll">
-            <h4>Rollno:-123</h4>
+            <h4>Rollno:-25</h4>
           </Col>
         </Col>
       </Row>
@@ -21,9 +21,9 @@ function Team() {
           <img className="image" src={abc} alt=" " />
         </Col>
         <Col className="member__name mx-sm-auto">
-          <h2>Name:-Abc</h2>
+          <h2>Name:-Aditi P Sahoo</h2>
           <Col className="member__roll">
-            <h4>Rollno:-123</h4>
+            <h4>Rollno:-26</h4>
           </Col>
         </Col>
       </Row>
@@ -32,9 +32,53 @@ function Team() {
           <img className="image" src={abc} alt=" " />
         </Col>
         <Col className="member__name mx-sm-auto">
-          <h2>Name:-Abc</h2>
+          <h2>Name:-Ritish Ghadei</h2>
           <Col className="member__roll">
-            <h4>Rollno:-123</h4>
+            <h4>Rollno:-27</h4>
+          </Col>
+        </Col>
+      </Row>
+      <Row className="member d-flex flex-row">
+        <Col className="member__image">
+          <img className="image" src={abc} alt=" " />
+        </Col>
+        <Col className="member__name mx-sm-auto">
+          <h2>Name:-Sristi Tamang</h2>
+          <Col className="member__roll">
+            <h4>Rollno:-30</h4>
+          </Col>
+        </Col>
+      </Row>
+      <Row className="member d-flex flex-row">
+        <Col className="member__image">
+          <img className="image" src={abc} alt=" " />
+        </Col>
+        <Col className="member__name mx-sm-auto">
+          <h2>Name:-Aditya Sahu </h2>
+          <Col className="member__roll">
+            <h4>Rollno:-31</h4>
+          </Col>
+        </Col>
+      </Row>
+      <Row className="member d-flex flex-row">
+        <Col className="member__image">
+          <img className="image" src={abc} alt=" " />
+        </Col>
+        <Col className="member__name mx-sm-auto">
+          <h2>Name:-Saroj Kumar Marei</h2>
+          <Col className="member__roll">
+            <h4>Rollno:-33</h4>
+          </Col>
+        </Col>
+      </Row>
+      <Row className="member d-flex flex-row">
+        <Col className="member__image">
+          <img className="image" src={abc} alt=" " />
+        </Col>
+        <Col className="member__name mx-sm-auto">
+          <h2>Name:-Ashim Mahapatro</h2>
+          <Col className="member__roll">
+            <h4>Rollno:-34</h4>
           </Col>
         </Col>
       </Row>

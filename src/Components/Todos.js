@@ -7,11 +7,13 @@ const Todos = (props) => {
     <Container>
       <div className="list">
         <h3 className="text-center list__heading my-3">Todo List</h3>
-        {props.todos.length === 0
-          ? "No todos to display"
-          : props.todos.map((todo) => {
-              return <TodoItem todo={todo} onDelete={props.onDelete} />;
-            })}
+        {props.todos.length === 0 ? (
+          <div className="notodo text-center">"No todos to display"</div>
+        ) : (
+          props.todos.map((todo) => {
+            return <TodoItem todo={todo} onDelete={props.onDelete} />;
+          })
+        )}
       </div>
     </Container>
   );
