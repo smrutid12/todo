@@ -6,7 +6,7 @@ const About = () => {
     <div className=" About justify-content-center text-center">
       <img className="images" src={todoimg} alt=" " />
       <div>
-        <h1>What is a ToDo List? </h1>
+        <h1>What is a To-Do List? </h1>
         <h2>Simple tool to organise everything.</h2>
         <h2>
           It’s a list of tasks you need to complete or things that you want to
