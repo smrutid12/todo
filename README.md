@@ -39,7 +39,7 @@ Welcome to the **Todo List Application** built with React! This application help
 
 ## Screenshot
 
-![Todo List Application](./Images/tofo-list-demo.png")
+![Todo List Application](.src/Images/tofo-list-demo.png")
 
 ## Getting Started
 
